@@ -1,4 +1,4 @@
-package com.interview.core;
+package com.cloud.core;
 
 import javax.servlet.annotation.WebInitParam;
 import javax.servlet.annotation.WebServlet;

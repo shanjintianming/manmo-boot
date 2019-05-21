@@ -1,4 +1,4 @@
-package com.interview.core;
+package com.cloud.core;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.Ordered;

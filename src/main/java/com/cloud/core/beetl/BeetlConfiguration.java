@@ -1,4 +1,4 @@
-package com.interview.core.beetl;
+package com.cloud.core.beetl;
 
 import org.beetl.core.resource.ClasspathResourceLoader;
 import org.beetl.ext.spring.BeetlGroupUtilConfiguration;

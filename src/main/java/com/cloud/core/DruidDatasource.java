@@ -1,4 +1,4 @@
-package com.interview.core;
+package com.cloud.core;
 
 import java.sql.SQLException;
 

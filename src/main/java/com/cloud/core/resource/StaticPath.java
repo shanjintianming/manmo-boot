@@ -1,4 +1,4 @@
-package com.interview.core.resource;
+package com.cloud.core.resource;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;

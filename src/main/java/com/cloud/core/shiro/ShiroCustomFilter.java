@@ -1,4 +1,4 @@
-package com.interview.core.shiro;
+package com.cloud.core.shiro;
 
 import java.io.PrintWriter;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package com.interview.core.shiro;
+package com.cloud.core.shiro;
 
 import java.util.HashSet;
 import java.util.List;
